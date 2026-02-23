@@ -1,1 +1,2 @@
 course://web.backend?name=%22MykhailoGoryn%22&group=fep23c&subgroup=1#MykhailoG212
+https://bank.gov.ua/NBU_ovdp?date=10.9.2024&ValCode=EUR&json
