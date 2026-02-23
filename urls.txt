@@ -1,0 +1,1 @@
+course://web.backend?name=%22MykhailoGoryn%22&group=fep23c&subgroup=1#MykhailoG212
